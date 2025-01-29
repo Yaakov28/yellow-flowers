@@ -1,22 +1,9 @@
-# floresamarillas
+# TE AMO MUCHO 
 
-¡Hola! Soy [Kevin Vargas - @kvargasdev]().
+MI NIÑA PRECIOSA ¿QUIERES SER MI SAN VALENTIN?
 
-## Acerca de mí👀
-Soy una persona creativa, me apasiona el desarrollo web y he estado trabajando en varios proyectos en esta área.
-En mi portafolio web, puedes encontrar algunos de los proyectos que he creado, desde sitios web simples hasta aplicaciones web más complejas.
+## 👀
+De todas las personas en el mundo, eres tú quien ilumina mis días de una forma única. No es solo tu belleza, es tu esencia, tu forma de ver la vida, de hacer que cada instante sea especial. No hay nadie más con quien quisiera compartir este camino. Te amo.
 
-- [Portafolio](https://kevinvargasx.github.io/portafolio/)
-
-🌱 Actualmente, estoy enfocado en seguir creciendo como programador mejorando mis habilidades en distintos lenguajes de programación.
-
-
-
-## Contacto 📫
-Puedes encontrarme en mis redes sociales:
-
-- [TikTok](https://www.tiktok.com/@kvargasdev)
-- [YouTube](#)
-- [LinkedIn](https://www.linkedin.com/in/kevin-vargas-salazar-ab79b9227/)
 
 
